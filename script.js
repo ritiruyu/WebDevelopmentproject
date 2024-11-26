@@ -1,7 +1,7 @@
         const playButton =document.getElementsByClassName("play")[0];
         const lapButton =document.getElementsByClassName("lap")[0];
         const clearButton =document.getElementsByClassName("lap-clear-button")[0];
-        const resetButton=ocument.getElementsByClassName("reset")[0];
+        const resetButton=document.getElementsByClassName("reset")[0];
         const laps= document.getElementsByClassName("laps")[0];
         const bg= document.getElementsByClassName("outer-circle")[0];
 
